@@ -1,0 +1,2 @@
+# hellocontract
+Smart contract practice
